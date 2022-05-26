@@ -1,0 +1,15 @@
+com\unsplash\parent\UnsplashApplication.class
+com\unsplash\api\client\model\Theme.class
+com\unsplash\api\client\model\Collections.class
+com\unsplash\api\client\model\PreviewPhotos.class
+com\unsplash\api\client\model\Ancestry.class
+com\unsplash\api\client\model\Source.class
+com\unsplash\api\client\model\Slug.class
+com\unsplash\api\client\model\Links.class
+com\unsplash\api\client\model\Social.class
+com\unsplash\api\client\model\Urls.class
+com\unsplash\api\client\model\Approval.class
+com\unsplash\api\client\model\CoverPhoto.class
+com\unsplash\api\client\model\User.class
+com\unsplash\api\client\oauth\Unsplash.class
+com\unsplash\api\client\model\Tags.class
